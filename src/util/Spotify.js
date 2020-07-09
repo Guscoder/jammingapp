@@ -4,7 +4,7 @@
  */
 
 const url = 'https://accounts.spotify.com/authorize';
-const clientId = 'c2058c9f1da44bb796b2071144e5a4ff';
+const clientId = '';
 const responseType = 'token';
 const redirectUri = 'http://localhost:3000/';
 const scope = 'playlist-modify-public';
